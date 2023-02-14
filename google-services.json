@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301076928257",
+    "project_id": "feraapp-371212",
+    "storage_bucket": "feraapp-371212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301076928257:android:c26bbeb7f0defd82012d00",
+        "android_client_info": {
+          "package_name": "com.kmt.feraadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301076928257-khn50vdaskukna5useludeo6hlp8irdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kmt.feraadminapp",
+            "certificate_hash": "81e7efa9fb4e99d89bb33574ec637279ebf93b93"
+          }
+        },
+        {
+          "client_id": "301076928257-75d0ui7sm73rgkbru9hls3iiaek30q6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCPkUXnCrbvDjgPOlVIa99osarKEUfLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301076928257-75d0ui7sm73rgkbru9hls3iiaek30q6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
